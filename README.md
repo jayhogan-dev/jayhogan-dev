@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jay Hogan</h1>
 <h3 align="center">Web Application Developer | Sports Fanatic | Current Member of JSM Masterclass Experience</h3>
 
-- 🔭 I’m currently working on [Morent](https://github.com/JavaScript-Mastery-PRO/Cohort5_DynamicDuo_CarRent)
+- 🔭 I’m currently working on my Portfolio
 
 - 🌱 I’m currently learning **React Native**
 
