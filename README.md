@@ -1,12 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Jay Hogan</h1>
-<h3 align="center">Web Application Developer | Sports Fanatic | Current Member of JSM Masterclass Experience</h3>
+<h3 align="center">Web Application Developer | Sports Fanatic | Member of JSM Masterclass Experience</h3>
 
-- 🔭 I’m currently working on a CRM System
+- 🔭 I’m currently working on a Fitness Application
 
-- 🌱 I’m currently learning **React Native**
-
-- 👨‍💻 All of my projects are available at [https://github.com/jayhogan-dev](https://github.com/jayhogan-dev)
+- 👨‍💻 Some of my projects are available at [https://github.com/jayhogan-dev](https://github.com/jayhogan-dev)
 
 - 💬 Ask me about **React, Nextjs,Tailwind**
 
